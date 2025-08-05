@@ -22,10 +22,9 @@ public class Variaveis
 
         // Console.WriteLine(palavra);
         // Console.WriteLine(nomeSemEspaço);
-        //Console.WriteLine(comecaComALetraA);
+        // Console.WriteLine(comecaComALetraA);
         // Console.WriteLine(textoAposReplace);
-        Console.WriteLine(contem);
-
+        // Console.WriteLine(contem);
 
     }   
 }
